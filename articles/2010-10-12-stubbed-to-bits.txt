@@ -1,0 +1,7 @@
+--- 
+title: stubbed to bits
+date: 12/10/2010
+
+So the adventure continues. I'm writing this blog post in Markdown and
+the article stub was created by a Rake task. We lives Tron. All your base
+are belong to us. Zerg rush kekeke.
