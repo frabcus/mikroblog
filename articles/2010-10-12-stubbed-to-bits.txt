@@ -1,5 +1,5 @@
---- 
 title: stubbed to bits
+author: buddhamagnet
 date: 12/10/2010
 
 So the adventure continues. I'm writing this blog post in Markdown and
