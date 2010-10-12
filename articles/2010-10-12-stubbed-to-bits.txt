@@ -2,6 +2,6 @@ title: stubbed to bits
 author: buddhamagnet
 date: 12/10/2010
 
-So the adventure continues. I'm writing this blog post in Markdown and
+So the adventure continues. I'm writing this blog post in [Markdown](http://daringfireball.net/projects/markdown/) and
 the article stub was created by a Rake task. We lives Tron. All your base
 are belong to us. Zerg rush kekeke.
