@@ -1,0 +1,14 @@
+title: The Mikroblog
+author: Buddhamagnet
+date: 2010/12/10
+
+In line with a recent post on my main blog, I start a new series of experiments. This blog is not sitting
+on top of Tumblr, Posterous or Wordpress. It's on the Heroku platform, is written in Ruby (technical details:
+most things are accompilshed with git and the app runs directly on top of Rack with no framework or DSL involved).
+
+I create the posts in Textmate (or whatever), then git commit and push. I get version control out of the box. It
+feels lightweight and elegant. I promise I'll tidy up the visuals a bit - but not much. When I pared down the
+fuss for the Tumblr theme I didn't think I could go any more minimal.
+
+Hmmmm.
+
