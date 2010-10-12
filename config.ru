@@ -28,6 +28,15 @@ toto = Toto::Server.new do
   # set :cache,      28800                                    # cache duration, in seconds
 
   set :date, lambda {|now| now.strftime("%B #{now.day.ordinal} %Y") }
+
+  set :to_html   do |path, page, ctx|                         # returns an html, from a path & context
+    ERB.new(File.read("#{path}/#{page}.rhtml")).result(ctx)
+  end
+
+  set :error     do |code|                                    # The HTML for your error page
+    "<font style='font-size:300%'>toto, we're not in Kansas anymore (#{code})</font>"
+  end
+
 end
 
 run toto
