@@ -1,6 +1,7 @@
-title: The Mikroblog
-author: Buddhamagnet
-date: 2010/10/12
+title: mikroblog
+author: buddhamagnet
+date: 12/10/2010
+
 
 In line with a recent post on my main blog, I start a new series of experiments. This blog is not sitting
 on top of Tumblr, Posterous or Wordpress. It's on the Heroku platform, is written in Ruby (technical details:
