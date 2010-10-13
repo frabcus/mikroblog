@@ -110,3 +110,8 @@ body > footer {
   font-size: 18px;
   color: #888;
 }
+
+ul#about li {
+	display: inline;
+	margin: 0 1em;
+}
