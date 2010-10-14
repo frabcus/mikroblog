@@ -2,4 +2,4 @@ title: third
 author: buddhamagnet
 date: 13/10/2010
 
-Today I started rebuilding an rails 2.3 application in rails 3. What a trip. The new bundler workflow is sweet as. Loving the dependency management process. Along the way I’ve started converting the old erb templates into haml and will sassify the css too. It feels futuristic. I’ve played with rails 3 before but this is the first real app. Bye bye active record, hello data mapper. Bye bye prototype, hello (unobstrusive) javascript. Gonna be fun. And, for the first time, I feel inclined to go down the TDD route and get some rspec action going on.
+Today I started rebuilding an rails 2.3 application in rails 3. What a trip. The new bundler workflow is sweet as. Loving the dependency management process. Along the way I’ve started converting the old erb templates into haml and will sassify the css too. It feels futuristic. I’ve played with rails 3 before but this is the first real app. Bye bye active record, hello data mapper. Bye bye prototype, hello (unobstrusive) jquery. Gonna be fun. And, for the first time, I feel inclined to go down the TDD route and get some rspec action going on.
