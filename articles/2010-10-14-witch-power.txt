@@ -1,5 +1,5 @@
 title: witch power
 author: buddhamagnet
-date: 1w/10/2010
+date: 14/10/2010
 
 Programming in C is addictive. It has trance-like witch-power.
