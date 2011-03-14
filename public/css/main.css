@@ -83,7 +83,6 @@ body > header > h1 {
 .more a {
   text-decoration: none;
 }
-.more a:hover { text-decoration: underline }
 body > header {
 	display: block;
 	padding-top: 30px;
