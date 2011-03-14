@@ -43,7 +43,7 @@ h1 a {
   padding: 5px;
 }
 a:hover {
-  color: #FFF;
+  color: #000;
 }
 body > header > h1 {
 	border-left: 30px solid black;
