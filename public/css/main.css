@@ -2,12 +2,12 @@ html { margin: 20px }
 body {
   margin: 0 auto;
   font-family: 'Baskerville', Georgia, Times, serif;
-  font-size: 20px;
+  font-size: 15px;
   line-height: 30px;
   padding: 15px;
   width: 720px;
   background-color: #FFF;
-  color: #CCC;
+  color: #000;
 
 }
 header, footer, section, article {
