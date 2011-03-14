@@ -1,0 +1,16 @@
+title: metamorph
+author: buddhamagnet
+date: 03/14/2011
+
+Many things have happened over the last few months to make me consider a more decentralised and minimal approach to my blogging 
+activities. Twitter's recent statements regarding third-party clients. Flickr's loss of one user's photographic archive. Twitter's 
+renaming of the @geekgirls account (to @geekigirls_). Companies and corporations are fairweather friends.
+
+So - this new blog is under my total control. It uses a variety of open source tools and technologies. The textual content is 
+controlled by git. Which means I can host the content on github and push and pull from anywhere I like. Yes, it doesn't have all the 
+bells and whistles of posterous or tumblr but it's the first step in reclaiming my content. I am also looking at diaspora as a 
+decentralised social networking solution.
+
+These are first steps, but 2011 will be an exploration for me. I own my voice and I want to own its digital representation. Any geeks 
+out there want to contribute, simply fork the repo, create an article and issue a pull request. Geekery supreme, I know, but I want to 
+see how this experiment pans out and help as many people as I can reclaim their stuff.
