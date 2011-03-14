@@ -6,8 +6,8 @@ body {
   line-height: 30px;
   padding: 15px;
   width: 720px;
-  background-color: #000;
-  color: #FFF;
+  background-color: #FFF;
+  color: #000;
 
 }
 header, footer, section, article {
