@@ -42,8 +42,12 @@ h1 a {
   background-color: #CCC;
   padding: 5px;
 }
+h1 a:hover {
+  color: #FFf;
+}
 a:hover {
   color: #000;
+  text-decoration: none;
 }
 body > header > h1 {
 	border-left: 30px solid black;
