@@ -1,0 +1,23 @@
+title: rebirth
+author: buddhamagnet
+date: 03/14/2011
+
+Something is afoot in 2011. I decided to blow the doors open, get back into my Buddhist practice in a big way, reconnect, minimise and 
+see what's possible. And February stepped up. A couple of weeks back someone got in touch about a possible Ruby contract in London. I 
+get a lot of calls and much gets lost in the static but I have been trying to make the leap from my current technical stack into Ruby 
+for some time. 
+
+Why? Ruby is a programming language that was invented in Japan and is optimised for human happiness. It is powerful, elegant and 
+mystical - and yes that last adjective should not belong in a technical evaluation of a language but I am more writer than programmer, 
+more artist than scientist and the vibration, community and inventive use of human language by that community suckered me in. So sue 
+me.
+
+I checked out the company on LinkedIn and recognised some of the connected avatars, one of them being Stuart Witts, the mind behind 
+Flowery Tweetup. He recommended me to the guys at Leap Anywhere and soon after I found myself in a coffee shop in Soho with Malcolm 
+Scovil (CEO) and Tony Daly (lead developer) buzzing off their energy and social ethic and they offered me the gig there and then.
+
+So on April 18th I start working for a dynamic and socially engaged startup in Greek Street Soho, spookily the spiritual home of the 
+original Tuttle Club, being paid to code Ruby (one agent told me it was very difficult, although not impossible, to switch from PHP to 
+Ruby commercially). And the bonus is that the company is both immersed in the social web and is contributing to social change.
+
+Never let anyone tell you something is impossible. 
