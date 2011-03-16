@@ -1,14 +1,13 @@
 html { margin: 20px }
 body {
   margin: 0 auto;
-  font-family: 'Baskerville', Georgia, Times, serif;
-  font-size: 15px;
-  line-height: 30px;
+  font-family: Verdana, Georgia, Times, serif;
+  font-size: 18px;
+  line-height: 25px;
   padding: 15px;
   width: 720px;
   background-color: #FFF;
   color: #000;
-
 }
 header, footer, section, article {
 	display: block;
@@ -38,11 +37,17 @@ a {
   color: #b83000;
 }
 h1 a {
-  color: #FFF;
+  color: #000;
   text-decoration: none;
+  background-color: #CCC;
+  padding: 5px;
+}
+h1 a:hover {
+  color: #FFf;
 }
 a:hover {
-  text-decoration: underline;
+  color: #000;
+  text-decoration: none;
 }
 body > header > h1 {
 	border-left: 30px solid black;
@@ -78,7 +83,6 @@ body > header > h1 {
 .more a {
   text-decoration: none;
 }
-.more a:hover { text-decoration: underline }
 body > header {
 	display: block;
 	padding-top: 30px;
