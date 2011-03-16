@@ -85,9 +85,10 @@ body > header > h1 {
 }
 body > header {
 	display: block;
-	padding-top: 30px;
-	line-height: 180px;
-	margin-bottom: 20px;
+	margin-bottom: 25px;
+	background-color: #CCC;
+	padding: 15px;
+	font-size: 2.1em;
 }
 h1, h2, h3, h4 {
   display: inline;
