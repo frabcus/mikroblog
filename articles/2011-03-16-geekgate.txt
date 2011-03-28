@@ -1,0 +1,36 @@
+title: geekgate
+author: buddhamagnet
+date: 03/16/2011
+
+A few weeks ago I attended an inpromptu meetup at All Bar One in London, ostensibly to talk about mobile. I mainly went to see
+friends, but something happened that put all my thoughts about the surging appropriation of geek culture that appears to be coming to
+a head, reaching its peak at the recent South By Southwest festival in Austin Texas. I was about to leave when a girl approached me,
+noticed I was wearing a T-shirt that said 'Ruby makes me happy', asked whether I was a Ruby programmer and when I said yes responded as
+if I had told her I was a globe-trotting rock star. Great for a geek, you'd imagine, but there was something else happening here.
+
+I attended South By Southwest in 2009 and it was a blast. Taken with a pinch of salt. But even back then I noticed the queues for 
+parties, full of liggers and hangers-on. The scent of celebrity and the feeling that the spotlight of media frenzy generally reserved 
+for the music and movie industries was pointing squarely at the temple of geek and bathing it in false light. 
+
+The rise of social media and the proliferation of applications and technologies around it, forging new bridges between historically 
+isolated domains is part of this process. And, as corporations and business entities twig and smell the dollar, the appropriation 
+process has begun in earnest.
+
+Of course, this is nothing new. It happened to music and film, branches of politics seem more akin to aspects of the entertainment 
+industry these days. Orwell understood this phenomenon. The ability to distract, to saturate, to manipulate media is essential to
+the control of information, and geek culture may be the last great subculture to be sucked dry and recycled. After all, more than music 
+and film, tech infiltrates almost every aspect of modern culture. 
+
+These are just some initial thoughts, but check the streams and you'll see that the alpha geeks, motivated by far more than money and 
+fame, no matter how enticing those ephemeral trinkets may be, are nervous. In the wake of recent missives coming out of Twitter HQ, 
+they are looking at decentralised alernatives such as identi.ca, diaspora and building their own distributed communities.
+
+There's nothing wrong with making money. But hyperbole and bubblethink are symptoms of disease. In the early days of social media, we 
+worried that our tight and cosy communities of early adopters and media mavens was in danger of being trapped inside an echo chamber, 
+rampant with insularity and exclusivity. Now everyone wants a piece, and if we're not careful we will see that echo chamber writ large, 
+a vast ecosystem of showbiz self-aggrandisement and self-promotion.
+
+The avant garde remains. In bedrooms and squats, loose collectives and ethical hackers. But now, more than ever, the traditional hacker 
+attributes of irreverance and radical creativity must be accompanied by a social ethic and political awareness. The things we do have 
+an impact in the real world - and it's up to us what direction that turbulence takes. 
+
