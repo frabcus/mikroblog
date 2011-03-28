@@ -25,7 +25,7 @@ toto = Toto::Server.new do
   # set :ext,       'txt'                                     # file extension for articles
   # set :cache,      28800                                    # cache duration, in seconds
 
-  # set :date, lambda {|now| now.strftime("%B #{now.day.ordinal} %Y") }
+  set :date, lambda {|now| now.strftime("%B #{now.day.ordinal} %Y") }
 
   set :to_html   do |path, page, ctx|                         # returns an html, from a path & context
     ERB.new(File.read("#{path}/#{page}.rhtml")).result(ctx)
