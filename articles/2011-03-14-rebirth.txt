@@ -1,6 +1,6 @@
 title: rebirth
 author: buddhamagnet
-date: 03/14/2011
+date: 2011/03/14
 
 Something is afoot in 2011. I decided to blow the doors open, get back into my Buddhist practice in a big way, reconnect, minimise and 
 see what's possible. And February stepped up. A couple of weeks back someone got in touch about a possible Ruby contract in London. I 

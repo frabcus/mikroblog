@@ -1,6 +1,6 @@
 title: metamorph
 author: buddhamagnet
-date: 03/14/2011
+date: 2011/03/14
 
 Many things have happened over the last few months to make me consider a more decentralised and minimal approach to my blogging 
 activities. Twitter's [recent 
