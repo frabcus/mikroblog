@@ -13,7 +13,8 @@ header, footer, section, article {
 	display: block;
 }
 nav {
-  margin: 10px;
+  font-size: 0.8em;
+  margin-bottom: 15px;
 }
 #content {
 }
