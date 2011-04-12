@@ -12,6 +12,9 @@ body {
 header, footer, section, article {
 	display: block;
 }
+nav {
+  margin: 10px;
+}
 #content {
 }
 #by {
