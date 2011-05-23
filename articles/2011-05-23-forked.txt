@@ -1,0 +1,43 @@
+title: forked
+author: frabcus
+date: 2011/05/23
+
+We're at a junction.
+
+Tech is mainstream - supercomputers in our pockets, instant worldwide communication,
+business models disrupted before breakfast. The singularity, once hippy Californian nonsense,
+starts to feel tangible - people are [slicing up brains](http://incf.ini.uzh.ch/catmaid/?pid=2&zp=9&yp=3835&xp=5115&sid0=2&s0=0) to work our their detailed neural
+wiring, others are starting the [first hints](http://www.color.com/) of a Searle's Chinese room built
+out of consumers.
+
+And yet, it is so fragile.
+
+The servers of a major gaming system [are hacked](http://en.wikipedia.org/wiki/PlayStation_Network_outage), maybe 
+our [document storage](https://docs.google.com)
+will be next, the world's private memos auctioned from Russia to the highest
+bidder. The weather always felt wrong, but it feels [more wrong](http://climateprogress.org/2011/05/16/nasa-hottest-april-record-colombia/). Progress on
+the politics of the destruction of our civilisation are [nothing but backwards](http://climateprogress.org/2011/05/20/l-a-times-obama-is-throwing-the-environment-and-public-health-under-a-bus-to-get-reelected/),
+with less hope each passing day.
+
+There are a few hopeful things.
+
+[unhosted][http://www.unhosted.org/] hints at how we can break out of a
+centralised, flaky and privacy risking Internet. At least [one startup](http://singly.com/)
+is quietly working away for the future interests of the user. 
+
+Maybe in the future everyone will be communicating by syncing encrypted files
+to [javascript CouchDB
+instances](http://damienkatz.net/2009/04/couchdb_in_the_browser.html) on their
+smartphone.
+
+[Dark Mountain](http://www.dark-mountain.net/) at least admit to the big
+environmental problem, and have a swirling of interesting people.
+
+And somewhere, deep in a git hash-object, someone makes their first
+blog post by forking.
+
+And someone else realises they've just had their strangest invite to [a
+festival](http://uncivilisation.co.uk/) that they've had for a little while.
+
+See you there!
+
