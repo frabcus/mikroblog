@@ -21,17 +21,14 @@ with less hope each passing day.
 
 There are a few hopeful things.
 
-[unhosted][http://www.unhosted.org/] hints at how we can break out of a
+[unhosted](http://www.unhosted.org/) hints at how we can break out of a
 centralised, flaky and privacy risking Internet. At least [one startup](http://singly.com/)
-is quietly working away for the future interests of the user. 
-
-Maybe in the future everyone will be communicating by syncing encrypted files
-to [javascript CouchDB
-instances](http://damienkatz.net/2009/04/couchdb_in_the_browser.html) on their
-smartphone.
-
-[Dark Mountain](http://www.dark-mountain.net/) at least admit to the big
-environmental problem, and have a swirling of interesting people.
+is quietly working away for the future interests of the user. Maybe 
+one day everyone will be communicating by syncing encrypted files to [javascript
+CouchDB instances](http://damienkatz.net/2009/04/couchdb_in_the_browser.html)
+on their smartphone. [Dark Mountain](http://www.dark-mountain.net/) at least
+admit to the big environmental problem, and have a swirling of interesting
+people.
 
 And somewhere, deep in a git hash-object, someone makes their first
 blog post by forking.
